@@ -34,3 +34,9 @@ button {
 
     padding: 10px 20px;
 }
+
+.col-3 {
+    width: 33%;
+    position: relative;
+    float: left;
+}

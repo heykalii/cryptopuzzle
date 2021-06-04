@@ -22,6 +22,11 @@ button, a {
     margin-bottom: 30px;
 }
 
+.inner-white {
+    background-color: #fff;
+    padding: 50px 0;
+}
+
 .intro-text {
     background-color: #FFC8BE;
     padding: 8px 20px;

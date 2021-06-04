@@ -55,6 +55,14 @@ button {
     background-color: #FFDECF;
 }
 
+.col-3:first {
+    margin-left: 0;
+}
+
+.col-3:last {
+    margin-right: 0;
+}
+
 .col-3 h4 {
     padding: 9px;
     margin: 0;

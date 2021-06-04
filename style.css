@@ -50,8 +50,15 @@ button {
     float: left;
     border: 3px solid #000;
     border-radius: 6px;
-    padding: 10px;
     margin: 0 10px;
+}
+
+.col-3 h4 {
+    padding: 9px;
+    margin: 0;
+    background-color: #A9D5EE;
+    border-bottom: 3px solid #000;
+    border-radius: 4px 4px 0 0;
 }
 
 .main h3 {

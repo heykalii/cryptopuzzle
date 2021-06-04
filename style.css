@@ -40,3 +40,8 @@ button {
     position: relative;
     float: left;
 }
+
+.main h3 {
+    text-align: center;
+    padding: 10px;
+}

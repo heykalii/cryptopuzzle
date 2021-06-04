@@ -37,9 +37,13 @@ button {
 }
 
 .col-3 {
-    width: 33%;
+    width: 30%;
     position: relative;
     float: left;
+    border: 3px solid #000;
+    border-radius: 6px;
+    padding: 10px;
+    margin: 0 10px;
 }
 
 .main h3 {

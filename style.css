@@ -51,6 +51,8 @@ button {
     border: 3px solid #000;
     border-radius: 6px;
     margin: 0 10px;
+
+    background-color: #FFDECF;
 }
 
 .col-3 h4 {
